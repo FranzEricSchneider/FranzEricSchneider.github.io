@@ -64,8 +64,14 @@
   border: 1px solid #4c964d;
   color: #FFF; }
 
-.img-left {
+.img-left-180w {
   float: left;
   margin-right: 2em;
   width: 180px;
+}
+
+.img-left-80h {
+  float: left;
+  margin-right: 2em;
+  height: 80px;
 }

@@ -1,7 +1,7 @@
 <div class="page-header">
   <center>
-    <h2>{{ page.title }} {% if page.tagline1 %}</h2>
-    <font size="2">{{ page.tagline1 }} / {{ page.tagline2 }} / {{ page.tagline3 }} / {{ page.tagline4 }}</font>{% endif %}
+    <h2>{{ page.title }}</h2>
+    <font size="2"> {% if page.tagline1 %}{{ page.tagline1 }}{% endif %}{% if page.tagline2 %} / {{ page.tagline2 }}{% endif %}{% if page.tagline3 %} / {{ page.tagline3 }}{% endif %}{% if page.tagline4 %} / {{ page.tagline4 }}{% endif %}</font>
 </div></center>
 
 <div class="row-fluid">
