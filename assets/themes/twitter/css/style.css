@@ -75,3 +75,15 @@
   margin-right: 2em;
   height: 80px;
 }
+
+.img-mid {
+  height: 300px;
+  margin: auto;
+  display: block;
+}
+
+.img-tall {
+  height: 400px;
+  margin: auto;
+  display: block;
+}

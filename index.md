@@ -25,6 +25,8 @@ TODO: Mention interests.
 A collection of some past projects that I had some documentation for, some serious and some for fun. Please get in touch if you'd like to know more.
 
 
+<!-- TODO: Go through HDD and update all these with more pictures! -->
+
 
 ![Flash Stereo](pages/images/tree-stereo.jpg){: .img-left-80h}
 
@@ -56,7 +58,8 @@ A collection of some past projects that I had some documentation for, some serio
 
 
 
-![Weather Balloon](pages/images/vinecloud.jpg){: .img-left-80h}
+<!-- Draft 1 done -->
+![Weather Balloon](pages/images/balloon4.JPG){: .img-left-80h}
 
 [Weather Balloon](pages/weather-balloon.html)
 
