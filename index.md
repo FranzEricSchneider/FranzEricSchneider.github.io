@@ -99,7 +99,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 
 
-![Quadcopter Control](pages/images/vinecloud.jpg){: .img-left-80h}
+![Quadcopter Control](pages/images/scope2.jpg){: .img-left-80h}
 
 [Quadcopter Control](pages/quadcopters.html)
 
@@ -143,7 +143,8 @@ A collection of some past projects that I had some documentation for, some serio
 
 Fire arts, soccer, music.
 
+One last random thing, if you use git and have access to any large repositories, do yourself a favor and run `gource` on one of them, then sit back and enjoy it for a while. This is a wonderful tool.
+
 ---
 
-<!-- TODO: Make smaller and right-justified? -->
 <sub>&copy; Eric Schneider 2022, inspired by [1](https://github.com/kbroman/simple_site) [2](https://shivamduggal4.github.io/)</sub>
