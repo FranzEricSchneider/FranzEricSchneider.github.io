@@ -8,6 +8,8 @@ For my senior capstone project in college I worked with a team on landing an ear
 
 For more information you can check out the [the archival project page](https://www.olin.edu/research/2014-15/Army%20Research%20Laboratory) or [the project poster](https://www.olin.edu/sites/default/files/arl_archival_poster.pdf)
 
+&nbsp;
+
 ![Computer components](images/scope1.jpg){: .img-mid}
 
 ![Outdoor testing 1](images/scope2.jpg){: .img-mid}

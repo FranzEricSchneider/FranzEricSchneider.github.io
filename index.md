@@ -69,7 +69,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 
 
-![Air Maze](pages/images/vinecloud.jpg){: .img-left-80h}
+![Air Maze](pages/images/airmaze3.jpg){: .img-left-80h}
 
 [Air Maze](pages/airmaze.html)
 
@@ -109,17 +109,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 
 
-![Barrett Technology](pages/images/vinecloud.jpg){: .img-left-80h}
-
-[Barrett Technology](pages/barrett.html)
-
-&nbsp;
-
-&nbsp;
-
-
-
-![Magnetic Levitation](pages/images/vinecloud.jpg){: .img-left-80h}
+![Magnetic Levitation](pages/images/maglev1.jpg){: .img-left-80h}
 
 [Magnetic Levitation](pages/maglev.html)
 
@@ -129,7 +119,17 @@ A collection of some past projects that I had some documentation for, some serio
 
 
 
-![Harvest Automation](pages/images/vinecloud.jpg){: .img-left-80h}
+![Barrett Technology](pages/images/barrett2.jpg){: .img-left-80h}
+
+[Barrett Technology](pages/barrett.html)
+
+&nbsp;
+
+&nbsp;
+
+
+
+![Harvest Automation](pages/images/harvest1.jpg){: .img-left-80h}
 
 [Harvest Automation](pages/harvest.html)
 
@@ -143,7 +143,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 Fire arts, soccer, music.
 
-One last random thing, if you use git and have access to any large repositories, do yourself a favor and run `gource` on one of them, then sit back and enjoy it for a while. This is a wonderful tool.
+One last random thing - if you use git and have access to any large repositories with a lot of contributors, do yourself a favor and run `gource` on one of them, then sit back and enjoy it for a while. This is a wonderful tool.
 
 ---
 
