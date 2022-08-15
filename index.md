@@ -79,7 +79,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 
 
-![NASA Sample Challenge](pages/images/vinecloud.jpg){: .img-left-80h}
+![NASA Sample Challenge](pages/images/nasa5.jpg){: .img-left-80h}
 
 [NASA Sample Challenge](pages/nasa-challenge.html)
 
