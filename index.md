@@ -26,13 +26,14 @@ A collection of some past projects that I had some documentation for, some serio
 
 
 <!-- TODO: Go through HDD and update all these with more pictures! -->
+**TODO: Try some sort of justification tricks for images/text**
 
 
-![Flash Stereo](pages/images/tree-stereo.jpg){: .img-left-80h}
+![Flash Stereo](pages/images/fnf5.png){: .img-left-80h}
 
 [Flash Stereo](pages/flash-noflash.html)
 
-&nbsp;
+TODO: One-sentence description
 
 &nbsp;
 
@@ -42,7 +43,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 [Skeletonization](pages/skeletonization.html)
 
-&nbsp;
+TODO: One-sentence description
 
 &nbsp;
 
@@ -52,7 +53,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 [RightHand](pages/righthand.html)
 
-&nbsp;
+TODO: One-sentence description
 
 &nbsp;
 
@@ -63,7 +64,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 [Weather Balloon](pages/weather-balloon.html)
 
-&nbsp;
+TODO: One-sentence description
 
 &nbsp;
 
@@ -73,7 +74,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 [Air Maze](pages/airmaze.html)
 
-&nbsp;
+TODO: One-sentence description
 
 &nbsp;
 
@@ -83,17 +84,17 @@ A collection of some past projects that I had some documentation for, some serio
 
 [NASA Sample Challenge](pages/nasa-challenge.html)
 
-&nbsp;
+TODO: One-sentence description
 
 &nbsp;
 
 
 
-![Sailbot](pages/images/vinecloud.jpg){: .img-left-80h}
+![Sailbot](pages/images/sailbot1.jpg){: .img-left-80h}
 
 [Sailbot](pages/sailbot.html)
 
-&nbsp;
+TODO: One-sentence description
 
 &nbsp;
 
@@ -103,7 +104,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 [Quadcopter Control](pages/quadcopters.html)
 
-&nbsp;
+TODO: One-sentence description
 
 &nbsp;
 
@@ -113,7 +114,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 [Magnetic Levitation](pages/maglev.html)
 
-&nbsp;
+TODO: One-sentence description
 
 &nbsp;
 
@@ -123,7 +124,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 [Barrett Technology](pages/barrett.html)
 
-&nbsp;
+TODO: One-sentence description
 
 &nbsp;
 
@@ -133,7 +134,7 @@ A collection of some past projects that I had some documentation for, some serio
 
 [Harvest Automation](pages/harvest.html)
 
-&nbsp;
+TODO: One-sentence description
 
 &nbsp;
 
