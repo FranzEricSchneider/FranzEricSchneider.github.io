@@ -16,7 +16,7 @@ I am a master's student at the [Robotics Institute](https://www.ri.cmu.edu/) at 
 
 Previously I worked for six years at [RightHand Robotics](https://www.righthandrobotics.com/), a piece-picking robotics startup in the Boston area. It was a privilege to watch this startup grow up, and a great learning experience.
 
-TODO: Mention interests.
+I'm interested in making useful work happen with computer vision. I feel like every robotics project has to start with perception, and all of the downstream actions and decisions rely on that initial world assessment. While at CMU I'm doing my best to dive into imaging, machine learning for image processing, and 3D reconstruction.
 
 ---
 
@@ -26,125 +26,26 @@ A collection of some past projects that I had some documentation for, some serio
 
 
 <!-- TODO: Go through HDD and update all these with more pictures! -->
-**TODO: Try some sort of justification tricks for images/text**
 
-
-![Flash Stereo](pages/images/fnf5.png){: .img-left-80h}
-
-[Flash Stereo](pages/flash-noflash.html)
-
-TODO: One-sentence description
-
-&nbsp;
-
-
-
-![Skeletonization](pages/images/vinecloud.jpg){: .img-left-80h}
-
-[Skeletonization](pages/skeletonization.html)
-
-TODO: One-sentence description
-
-&nbsp;
-
-
-
-![RightHand](pages/images/vinecloud.jpg){: .img-left-80h}
-
-[RightHand](pages/righthand.html)
-
-TODO: One-sentence description
-
-&nbsp;
-
-
-
-<!-- Draft 1 done -->
-![Weather Balloon](pages/images/balloon4.JPG){: .img-left-80h}
-
-[Weather Balloon](pages/weather-balloon.html)
-
-TODO: One-sentence description
-
-&nbsp;
-
-
-
-![Air Maze](pages/images/airmaze3.jpg){: .img-left-80h}
-
-[Air Maze](pages/airmaze.html)
-
-TODO: One-sentence description
-
-&nbsp;
-
-
-
-![NASA Sample Challenge](pages/images/nasa5.jpg){: .img-left-80h}
-
-[NASA Sample Challenge](pages/nasa-challenge.html)
-
-TODO: One-sentence description
-
-&nbsp;
-
-
-
-![Sailbot](pages/images/sailbot1.jpg){: .img-left-80h}
-
-[Sailbot](pages/sailbot.html)
-
-TODO: One-sentence description
-
-&nbsp;
-
-
-
-![Quadcopter Control](pages/images/scope2.jpg){: .img-left-80h}
-
-[Quadcopter Control](pages/quadcopters.html)
-
-TODO: One-sentence description
-
-&nbsp;
-
-
-
-![Magnetic Levitation](pages/images/maglev1.jpg){: .img-left-80h}
-
-[Magnetic Levitation](pages/maglev.html)
-
-TODO: One-sentence description
-
-&nbsp;
-
-
-
-![Barrett Technology](pages/images/barrett2.jpg){: .img-left-80h}
-
-[Barrett Technology](pages/barrett.html)
-
-TODO: One-sentence description
-
-&nbsp;
-
-
-
-![Harvest Automation](pages/images/harvest1.jpg){: .img-left-80h}
-
-[Harvest Automation](pages/harvest.html)
-
-TODO: One-sentence description
-
-&nbsp;
-
-
-
-#### Other Interests
-
-Fire arts, soccer, music.
-
-One last random thing - if you use git and have access to any large repositories with a lot of contributors, do yourself a favor and run `gource` on one of them, then sit back and enjoy it for a while. This is a wonderful tool.
+| | |
+| --- | --- |
+| ![Flash Stereo](pages/images/fnf5.png){: .img-left-80h}           | [Flash Stereo](pages/flash-noflash.html)           <br> Explored using both flash/no-flash images in outdoor scenes |
+| ![Skeletonization](pages/images/vinecloud.jpg){: .img-left-80h}   | [Skeletonization](pages/skeletonization.html)      <br> Attempting to decompose stereo images of vines into skeletal models |
+| ![RightHand](pages/images/rhr-app2.jpg){: .img-left-80h}          | [RightHand](pages/righthand.html)                  <br> Worked at this piece-picking startup for six years, from Applications Engineer to a Senior Software Developer |
+| ![Weather Balloon](pages/images/balloon4.JPG){: .img-left-80h}    | [Weather Balloon](pages/weather-balloon.html)      <br> Launched weather balloons across Massachusetts for some cool GoPro footage |
+| ![Air Maze](pages/images/airmaze3.jpg){: .img-left-80h}           | [Air Maze](pages/airmaze.html)                     <br> Made a 3D maze game out of the Bernoulli effect |
+| ![NASA Sample Challenge](pages/images/nasa5.jpg){: .img-left-80h} | [NASA Sample Challenge](pages/nasa-challenge.html) <br> Constructed a robot for a NASA rover challenge at WPI |
+| ![Sailbot](pages/images/sailbot1.jpg){: .img-left-80h}            | [Sailbot](pages/sailbot.html)                      <br> Worked on making 2m autonomous sailboats |
+| ![Quadcopter Control](pages/images/scope2.jpg){: .img-left-80h}   | [Quadcopter Control](pages/quadcopters.html)       <br> Capstone project to land quadcopters on a target board |
+| ![Magnetic Levitation](pages/images/maglev1.jpg){: .img-left-80h} | [Magnetic Levitation](pages/maglev.html)           <br> Made a device to electromagnetically levitate a nut |
+| ![Barrett Technology](pages/images/barrett2.jpg){: .img-left-80h} | [Barrett Technology](pages/barrett.html)           <br> Mechanical intern at Barrett, which makes tendon-driven robotic arms |
+| ![Harvest Automation](pages/images/harvest1.jpg){: .img-left-80h} | [Harvest Automation](pages/harvest.html)           <br> Quality engineering intern at Harvest, testing agricultural robots |
+
+#### Interests
+
+Other random interests include running, hiking, choir <sub>(shout-out to [Revels](https://revels.org/))</sub>, soccer, and [fire arts](https://revels.org/) <sub>(shout-out to [Wildfire](https://www.wildfireretreat.org/))</sub>.
+
+One fun suggestion - if you use git and have access to any large repositories with many contributors, do yourself a favor and run `gource`, then sit back and enjoy it. This is a wonderful tool.
 
 ---
 
