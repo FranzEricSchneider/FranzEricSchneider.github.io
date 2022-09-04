@@ -12,4 +12,6 @@ Freshman summer I was lucky enough to be a quality intern at Harvest Automation,
 
 ![Robot in action](images/harvest2.jpg){: .img-mid}
 
-![Load analysis](images/harvest3.jpg){: .img-mid}
+![Load analysis](images/harvest3.jpg){: .img-tall}
+
+![Load analysis one robot](images/harvest4.jpg){: .img-tall}

@@ -10,14 +10,16 @@ Here you can find a [video of one of our boats](https://drive.google.com/file/d/
 
 &nbsp;
 
-![SGBM disparity](images/sailbot1.jpg){: .img-mid}
+![Boston harbor](images/sailbot1.jpg){: .img-mid}
 
-![SGBM disparity](images/sailbot2.jpg){: .img-mid}
+![Team picture](images/sailbot2.jpg){: .img-mid}
 
-![SGBM disparity](images/sailbot3.jpg){: .img-mid}
+![Vancouver harbor](images/sailbot3.jpg){: .img-mid}
 
-![SGBM disparity](images/sailbot4.jpg){: .img-mid}
+![Sailing diagram](images/sailbot4.jpg){: .img-mid}
 
-![SGBM disparity](images/sailbot5.jpg){: .img-mid}
+![Sail construction](images/sailbot5.jpg){: .img-mid}
 
-![SGBM disparity](images/sailbot6.jpg){: .img-mid}
+![Boat transport](images/sailbot6.jpg){: .img-mid}
+
+![Computer container design](images/sailbot7.JPG){: .img-mid}

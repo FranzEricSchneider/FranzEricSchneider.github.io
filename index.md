@@ -24,9 +24,6 @@ I'm interested in making useful work happen with computer vision. I feel like ev
 
 Here is a collection of past projects that I had documentation for, some serious and some fun.
 
-<!-- TODO: Go through HDD and update all these with more pictures! -->
-<!-- TODO: Raid this for pictures: https://www.flickr.com/photos/franz_eric_schneider_portfolios/ -->
-
 | | |
 | --- | --- |
 | ![Flash Stereo](pages/images/fnf5.png){: .img-left-80h}           | [Flash Stereo](pages/flash-noflash.html)           <br> Explored using both flash and no-flash images in outdoor scenes |
@@ -45,7 +42,7 @@ Here is a collection of past projects that I had documentation for, some serious
 
 #### Interests
 
-Other random interests include running, hiking, choir <sub><sup>(shout-out to [Revels](https://revels.org/))</sup></sub>, soccer, and [fire arts](https://revels.org/) <sub><sup>(shout-out to [Wildfire](https://www.wildfireretreat.org/))</sup></sub>.
+Other random interests include [running](pages/images/sehome_xc.jpg), [hiking](pages/images/hiking_2.jpg), [choir](pages/images/powerchords.jpg) <sub><sup>(shout-out to [Revels](https://revels.org/))</sup></sub>, [soccer](pages/images/soccer.jpg), and [fire arts](https://drive.google.com/file/d/11Wv5ODqs4uO92x0NBdxpaWc-2htDRvgi/view?usp=sharing) <sub><sup>(shout-out to [Wildfire](https://www.wildfireretreat.org/))</sup></sub>.
 
 One fun suggestion - if you use git and have access to any large repositories with many contributors, do yourself a favor and run `gource`, then sit back and enjoy. This is a wonderful tool.
 

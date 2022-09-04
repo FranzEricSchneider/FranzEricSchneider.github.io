@@ -6,11 +6,9 @@ description: Piece-picking startup that I worked at out of college
 
 Although much of my work at [RightHand Robotics](https://www.righthandrobotics.com/) can't be shared publically, here are some fun moments over the years.
 
-<!-- TODO: Spend some time looking for public web resources and linking them here -->
-
 ---
 
-Much of my time spent at RightHand was on various customer-focused projects, where we set up a system to work in a cartain configuration, with specific geometries and integrations. This was one of the more challenging projects, where we tried to place items into a warehouse feature called a putwall. The horizontal placement led to a variety of pathing issues, and at points I had to investigate the reachable workspace. The tooltip orientation's effect on reachability was particularly important for putwalls.
+Much of my time spent at RightHand was on various customer-focused projects, where we set up a system to work in a certain configuration, with specific geometries and integrations. Some examples of projects I worked on that got turned into public videos include [Apo integration](https://www.youtube.com/watch?v=8qjlQxN09zo) and the [NRF kitting system](https://www.youtube.com/watch?v=IylrLLJCQtY). The project pictured below was one of the more challenging projects, where we tried to place items into a warehouse feature called a putwall. The horizontal placement led to a variety of pathing issues, and at points I had to investigate the reachable workspace. The tooltip orientation's effect on reachability was particularly important for putwalls.
 
 ![Putwall](images/rhr-app1.jpg){: .img-mid}
 
@@ -22,9 +20,17 @@ Much of my time spent at RightHand was on various customer-focused projects, whe
 
 ---
 
-In year two the company was just beginning to be more public, and I spent most of my time preparing systems for robust, sometimes specialized demos. This is one example of a demo system where we had to modify things to pick from non-standard containers in a warehouse store-and-present system. We demoed this system at Modex in Atlanta and I spent the show running around to keep a variety of systems running smoothly. For example, I worked on many of the demos shown [in this video](https://www.youtube.com/watch?v=a8MfBiu7v0Q).
+In year two the company was just beginning to be more public, and I spent most of my time preparing systems for robust, sometimes specialized demos. This is one example of a demo system where we had to modify things to pick from non-standard containers in a warehouse store-and-present system. We demoed this system at Modex in Atlanta and I spent the show running around to keep a variety of systems running smoothly. For example, I worked on many of the demos shown [in this video](https://www.youtube.com/watch?v=a8MfBiu7v0Q) and [in this video](https://www.youtube.com/watch?v=xzoM95th4AI).
 
 ![Demo system](images/rhr-show1.jpg){: .img-mid}
+
+---
+
+One of my earliest jobs was to evaluate system speed and error rates over the course of long runs. It was important to harden the system, gradually working out the kinks so that it could run for hours or days without failure. It was especially difficult to match slow-settling and noisy scale output with a fast-moving system, which made it challenging to reliably classify actual errors (such as a flung item) with scale lag or noise. These tests really hammered home something that I think is a good engineering principle, which is to explicitly document moments and actions that you want to characterize instead of trying to back out the values that you care about from other system output.
+
+![Rates over time](images/rhr-timing1.png){: .img-mid}
+
+![Drop analysis](images/rhr-timing2.png){: .img-mid}
 
 ---
 
@@ -57,3 +63,7 @@ My very first job as an intern at RightHand was a real privilege, I started back
 ![Assembled](images/rhr-reflex2.jpg){: .img-short}
 
 ![Visualizer](images/rhr-reflex3.png){: .img-mid}
+
+![Electrical diagram](images/rhr-reflex4.jpg){: .img-mid}
+
+![Test rig](images/rhr-reflex5.jpg){: .img-mid}

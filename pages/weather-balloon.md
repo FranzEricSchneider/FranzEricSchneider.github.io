@@ -19,3 +19,5 @@ In college a friend wanted to do a weather balloon project for fun and take some
 ![At altitude](images/balloon5.JPG){: .img-mid}
 
 ![Tree landing](images/balloon6.JPG){: .img-tall}
+
+![Tree landing](images/balloon7.jpg){: .img-mid}

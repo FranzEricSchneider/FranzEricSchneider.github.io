@@ -14,4 +14,6 @@ Sophomore summer I was lucky enough to be a mechanical engineering intern at Bar
 
 ![Stability analysis](images/barrett3.jpg){: .img-tall}
 
+![Cable testing rig](images/barrett5.jpg){: .img-mid}
+
 ![Fun renders](images/barrett4.png){: .img-mid}
