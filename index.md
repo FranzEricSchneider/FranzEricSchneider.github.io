@@ -42,7 +42,7 @@ Here is a collection of past projects that I had documentation for, some serious
 
 #### Interests
 
-Other random interests include [running](pages/images/sehome_xc.jpg), [hiking](pages/images/hiking_2.jpg), [choir](pages/images/powerchords.jpg) <sub><sup>(shout-out to [Revels](https://revels.org/))</sup></sub>, [soccer](pages/images/soccer.jpg), and [fire arts](https://drive.google.com/file/d/11Wv5ODqs4uO92x0NBdxpaWc-2htDRvgi/view?usp=sharing) <sub><sup>(shout-out to [Wildfire](https://www.wildfireretreat.org/))</sup></sub>.
+Other random interests include [running](pages/images/sehome_xc.jpg), [hiking](pages/images/hiking_2.jpg), [choir](pages/images/powerchords.jpg) <sub><sup>(shout-out to [Revels](https://revels.org/))</sup></sub>, [soccer](pages/images/soccer.jpg), and [fire arts](https://drive.google.com/file/d/16Lut_dGIvgzn5PNNoVQJHhjt5TUXKUw_/view?usp=sharing) <sub><sup>(shout-out to [Wildfire](https://www.wildfireretreat.org/))</sup></sub>.
 
 One fun suggestion - if you use git and have access to any large repositories with many contributors, do yourself a favor and run `gource`, then sit back and enjoy. This is a wonderful tool.
 
