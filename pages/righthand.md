@@ -4,7 +4,7 @@ title: RightHand Robotics
 description: Piece-picking startup that I worked at out of college
 ---
 
-Although much of my work at [RightHand Robotics](https://www.righthandrobotics.com/) can't be shared publically, here are some fun moments over the years.
+Although much of my work at [RightHand Robotics](https://www.righthandrobotics.com/) can't be shared publicly, here are some fun moments over the years.
 
 ---
 
