@@ -28,6 +28,7 @@ Here is a collection of past projects that I had documentation for, some serious
 | --- | --- |
 | ![Flash Stereo](pages/images/fnf5.png){: .img-left-80h}           | [Flash Stereo](pages/flash-noflash.html)           <br> Explored using both flash and no-flash images in outdoor scenes |
 | ![Skeletonization](pages/images/vinecloud.jpg){: .img-left-80h}   | [Skeletonization](pages/skeletonization.html)      <br> Attempting to decompose stereo images of vines into skeletal models |
+| ![Florascope](pages/images/florascope2.jpg){: .img-left-80h}      | [Florascope](pages/florascope.html)                <br> Idea for in-field high quality leaf images that was given some thought but not finished |
 | ![RightHand](pages/images/rhr-app2.jpg){: .img-left-80h}          | [RightHand](pages/righthand.html)                  <br> Worked at this piece-picking startup for six years, from Applications Engineer to a Senior Software Engineer |
 | ![Weather Balloon](pages/images/balloon4.JPG){: .img-left-80h}    | [Weather Balloon](pages/weather-balloon.html)      <br> Launched weather balloons across Massachusetts for some cool GoPro footage |
 | ![Air Maze](pages/images/airmaze3.jpg){: .img-left-80h}           | [Air Maze](pages/airmaze.html)                     <br> Made a 3D maze game out of the Bernoulli effect |
