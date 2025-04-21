@@ -12,11 +12,13 @@ description: Personal website detailing projects and interests
 
 ![Profile picture, Niagara](pages/images/headshot.jpg){: .img-left-180w}
 
-I am a master's student at the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University (CMU MSR). I am working in the [Field Robotics Center](https://frc.ri.cmu.edu/) with [George Kantor](https://www.ri.cmu.edu/ri-faculty/george-a-kantor/) on agricultural robotics applications, focusing on outdoor imaging and reconstruction.
+Most recently, I spent nearly two years at [Fyto](https://fyto.us/) working on large-scale crop harvesting robots for a new type of sustainable, high-protein crop. Contributing to a sustainable agricultural project was incredibly rewarding, and I hope to return to this field in the future.
 
-Previously I worked for six years at [RightHand Robotics](https://www.righthandrobotics.com/), a piece-picking robotics startup in the Boston area. It was a privilege to watch this startup grow up, as well as a great learning experience.
+I completed a two-year master’s program at the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University (CMU MSR). I worked in the [Field Robotics Center](https://frc.ri.cmu.edu/) with [George Kantor](https://www.ri.cmu.edu/ri-faculty/george-a-kantor/) on agricultural robotics applications, focusing on outdoor imaging and reconstruction.
 
-I'm interested in making useful work happen with computer vision. I feel like every robotics project has to start with perception, and all of the downstream actions and decisions rely on good decisions in that initial assessment of the world. While at CMU I'm doing my best to dive into imaging, machine learning for image processing, and 3D reconstruction.
+Prior to CMU, I spent six years at [RightHand Robotics](https://www.righthandrobotics.com/), a Boston area startup focused on piece-picking automation. It was a privilege to watch this startup grow up, as well as a great learning experience.
+
+I'm interested in making useful work happen with computer vision. I believe nearly every robotics problem has perception at its core, and all of the downstream actions taken by the robot rely on a good assessment of the world around it. While at CMU I did my best to dive into imaging, machine learning for image processing, and 3D reconstruction.
 
 ---
 
