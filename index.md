@@ -29,6 +29,7 @@ Here is a collection of past projects that I had documentation for, some serious
 | | |
 | --- | --- |
 | ![Fyto](pages/images/fyto0.jpg){: .img-left-80h}                  | [Fyto](pages/fyto.html)                            <br> Worked at this sustainable agriculture robotics company for two years |
+| ![Mass Flow](pages/images/massflow3.jpg){: .img-left-80h}         | [Mass Flow Estimation](pages/mass-flow.html)       <br> Took data and trained a series of ML models to estimate the mass of flowing plant material |
 | ![Skeletonization](pages/images/vinecloud.jpg){: .img-left-80h}   | [Skeletonization](pages/skeletonization.html)      <br> Attempting to decompose stereo images of vines into skeletal models |
 | ![Flash Stereo](pages/images/fnf5.png){: .img-left-80h}           | [Flash Stereo](pages/flash-noflash.html)           <br> Explored using both flash and no-flash images in outdoor scenes |
 | ![Florascope](pages/images/florascope2.jpg){: .img-left-80h}      | [Florascope](pages/florascope.html)                <br> Idea for in-field high quality leaf images that was given some thought but not finished |
